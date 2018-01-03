@@ -1,0 +1,8 @@
+label{
+    color: #acacac;
+    font-style: bold;
+    font-family: arial;
+}
+input:text{
+    padding : 20px;
+}
